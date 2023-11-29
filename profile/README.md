@@ -2,7 +2,7 @@
 
 ## Me?
 
-> [github: iamh20 aka john major](https://github.com/iamh2o)
+> [github: iamh2o aka john major](https://github.com/iamh2o)
 > [linkedin: john major](https://linkedin.com/in/john--major)
 > [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=John%20Major%5BAuthor%5D)
 > [blog](https://daylily-informatics.github.io/)
