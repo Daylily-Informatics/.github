@@ -1,4 +1,4 @@
-<img src="http://54.190.46.215:8911/format_gh_text?txt=++daylily+informatics++&bg_color=%23fa29de&txt_color=%232f07f2&font=Monoid-Regular-HalfTight-Dollar-0-1-l&font_size=22&width=333&ret_type=img" /> | [John Major](https://www.linkedin.com/in/john--major/) 
+[<img src="http://54.190.46.215:8911/format_gh_text?txt=++daylily+informatics++&bg_color=%23fa29de&txt_color=%232f07f2&font=Monoid-Regular-HalfTight-Dollar-0-1-l&font_size=22&width=333&ret_type=img" />](http://gtc.dyly.bio) | [John Major](https://www.linkedin.com/in/john--major/) 
 
 I am a bioinformatician, scalable operations architect, Scientist, Artist, software developer, and systems thinker working at the intersection of biology, data science, and cutting-edge computational solutions. 
 
