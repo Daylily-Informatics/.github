@@ -1,4 +1,4 @@
-# 🌱 [Daylily Informatics](https://dyly.bio) | [John Major](https://www.linkedin.com/in/john--major/) 🌍
+# 🌱 [Daylily Informatics](https://dyly.bio) | [John Major](https://www.linkedin.com/in/john--major/) 👾
 
 I am a bioinformatician, scalable operations architect, Scientist, Artist, software developer, and systems thinker working at the intersection of biology, data science, and cutting-edge computational solutions. 
 
