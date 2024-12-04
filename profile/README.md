@@ -22,12 +22,13 @@ I am a bioinformatician, scalable operations architect, Scientist, Artist, softw
 
 ## 🔧 Skills & Expertise
 
-🧬 **Bioinformatics**: Clinical WGS, RNA-seq, and variant analysis.  
-📊 **Data Science**: Python, R, machine learning.  
-☁️ **Cloud Computing**: AWS, Slurm, high-performance computing.  
-🌐 **Open Source Development**: FastAPI, Snakemake, and more.  
-🏥 **Clinical Diagnostic Operations**: Designing and running scalable diagnostic workflows.  
-⚖️ **Clinical Diagnostic Regulation & Compliance**: Expertise in CLIA/CAP standards and certification processes.  
+ 🧬 **Bioinformatics**:  _Clinical WGS, RNA-seq, and variant analysis._  
+ 📊 **Data Science**: _Python, R, machine learning._  
+ ☁️ **HPC & Cloud Computing**: _AWS, Slurm, high-performance computing._  
+ 🌐 **Open Source Development**: _FastAPI, Snakemake, and more._  
+ 🏥 **Clinical Diagnostic Operations**: _designing and running scalable diagnostic workflows._  
+ ⚖️ **Clinical Diagnostic Regulation & Compliance**: _expertise in CLIA/CAP standards and certification processes._  
+
 ---
 
 
