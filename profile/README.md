@@ -35,23 +35,23 @@ I am a bioinformatician, scalable operations architect, Scientist, Artist, softw
 ## 🌟 Key Projects  
 
 ### 🌼 **Daylily**  
-- - **[daylily, WGSA cost calculator & draft white paper](https://github.com/Daylily-Informatics/daylily)**: Achieving ~$3–$4 per 30x no-amp WGS from FASTQ to VCF.    
-- **Features**:
+**[daylily, WGSA cost calculator & draft white paper](https://github.com/Daylily-Informatics/daylily)**: Achieving ~$3–$4 per 30x no-amp WGS from FASTQ to VCF.    
+  **Features**:
   - Industry-leading accuracy, speed, cost, auditability, scalability, QC views & observability.  
   - Reproducible, sustainable, growing & open-source omics analysis workflows.  
   - Automated infrastructure management with predictive and real-time cost visibility for storage, data transfer, and compute.  
   - Open source & free: Deploy **bloom** in ~1hr and begin returning completed WGS analysis shortly thereafter.
 
 ### 🛠 **Snakemake Executor Plugin**  
-- **[snakemake-executor-plugin-pcluster-slurm](https://github.com/Daylily-Informatics/snakemake-executor-plugin-pcluster-slurm)**  
+**[snakemake-executor-plugin-pcluster-slurm](https://github.com/Daylily-Informatics/snakemake-executor-plugin-pcluster-slurm)**  
   A plugin designed to integrate Snakemake workflows with AWS ParallelCluster’s Slurm workload manager.
 
 ### 🧪 **Laboratory Information Management Systems (LIMS)**  
-- **[bloom](https://github.com/Daylily-Informatics/bloom)**:  
-  A templated, abstract, polymorphic, and opinionated LIMS for efficient laboratory data management.
+**[bloom](https://github.com/Daylily-Informatics/bloom)**:  
+  A templated, abstract, polymorphic, and opinionated LIMS for efficient laboratory data management. Real time COGS moitoring and operational decision gating.
 
 ### 🖨 **Zebra Label Printing**  
-- **[zebra_day](https://github.com/Daylily-Informatics/zebra_day)**:  
+**[zebra_day](https://github.com/Daylily-Informatics/zebra_day)**:  
   A library and API for network-connected Zebra printers, managing ZPL label templates and numerous printers with ease.
 
 ---
