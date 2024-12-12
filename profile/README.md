@@ -1,6 +1,6 @@
 [<img src="http://54.190.46.215:8911/format_gh_text?txt=++daylily+informatics++&bg_color=%23fa29de&txt_color=%232f07f2&font=Monoid-Regular-HalfTight-Dollar-0-1-l&font_size=22&width=333&ret_type=img" />](https://dyly.bio) | [John Major](https://www.linkedin.com/in/john--major/) 
 
-I am a bioinformatician, scalable operations architect, Scientist, Artist, software developer, and systems thinker working at the intersection of biology, data science, and cutting-edge computational solutions. 
+I am a bioinformatician, scalable operations architect, Scientist, Artist, software engineer, and systems thinker working at the intersection of biology, clinical genomics, data science & cutting-edge computational solutions. 
 
 ---
 
@@ -35,7 +35,7 @@ I am a bioinformatician, scalable operations architect, Scientist, Artist, softw
 ## 🌟 Key Projects  
 
 ### 🌼 **Daylily**  
-- **Cost Calculator & Whitepaper**: Achieving ~$3–$4 per 30x no-amp WGS from FASTQ to VCF.  
+- - **[daylily, WGSA cost calculator & draft white paper](https://github.com/Daylily-Informatics/daylily)**: Achieving ~$3–$4 per 30x no-amp WGS from FASTQ to VCF.    
 - **Features**:
   - Industry-leading accuracy, speed, cost, auditability, scalability, QC views & observability.  
   - Reproducible, sustainable, growing & open-source omics analysis workflows.  
