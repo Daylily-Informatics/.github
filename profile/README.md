@@ -34,13 +34,27 @@ I am a bioinformatician, scalable operations architect, Scientist, Artist, softw
 
 ## 🌟 Key Projects  
 
-### 🌼 **Daylily**  
-**[daylily, WGSA cost calculator & draft white paper](https://github.com/Daylily-Informatics/daylily)**: Achieving ~$3–$4 per 30x no-amp WGS from FASTQ to VCF.    
+### 🌼 **Daylily** Ephemeral Cluster && Omics Analysis Workflows  
+**[daylily-ephemeral-cluster](https://github.com/Daylily-Informatics/daylily-ephemeral-cluster)**: Infrastructure as code allows on-demand creation of arbitrarily large self-scaling clusters.    
   **Features**:
+  - Built using [AWS Parallel Cluster](https://docs.aws.amazon.com/parallelcluster/latest/ug/what-is-aws-parallelcluster.html) *and* [Parallel Cluster UI](https://docs.aws.amazon.com/parallelcluster/latest/ug/pcui-using-v3.html).
+  - Scans AWS Regions and AZs to determine best spot market pricing, and creates clusters where spot pricing is most competitive.
+  - Highly performant globally shared filesystem via [FSx Lustre](https://aws.amazon.com/fsx/lustre/) mirroring reference and other data from *`S3`*.
+  - Reproducible and predictable runtimes and costs.
+  - Automateable.
+  - Fine resolution budget tracking of jobs and resources.
+  - Real time cost reporting and decision gating capabilities.
+  - Will run *any* slurm based workflow manager ( snakemake, CROMWELL, nextflow, ...).
+  - Tight coupling of reference data allows highly performant and nimble ephemeral cluster lifecycles.
+  - Designed to be ephemeral-- packaged tools facilitate rapid creation. monitoring, updating, archiving and deleting of ephemeral clusters.
+
+**[daylily-omics-analysis](https://github.com/Daylily-Informatics/daylily-omics-analysis)**: Achieving ~$2–$5 per 30x no-amp WGS from FASTQ to VCF.    
+  **Features**:
+  - Optimized to run w/in a [daylily-ephemeral-cluster framework](https://github.com/Daylily-Informatics/daylily-ephemeral-cluster).
   - Industry-leading accuracy, speed, cost, auditability, scalability, QC views & observability.  
   - Reproducible, sustainable, growing & open-source omics analysis workflows.  
   - Automated infrastructure management with predictive and real-time cost visibility for storage, data transfer, and compute.  
-  - Open source & free: Deploy **bloom** in ~1hr and begin returning completed WGS analysis shortly thereafter.
+  - Open source & free: Deploy **daylily** in ~1hr and begin returning completed WGS analysis shortly thereafter.
 
 ### 🛠 **Snakemake Executor Plugin**  
 **[snakemake-executor-plugin-pcluster-slurm](https://github.com/Daylily-Informatics/snakemake-executor-plugin-pcluster-slurm)**  
